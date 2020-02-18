@@ -1,1 +1,0 @@
-This file displays teaching
